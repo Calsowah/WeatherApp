@@ -60,5 +60,5 @@ axios.get(geocodeUrl).then((response)=>{
     }
 });}, 6000);
 
-console.log('Loading weather info');
+console.log('Loading weather info...');
 
