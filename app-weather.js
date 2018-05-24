@@ -14,7 +14,7 @@ const argv = yargs.options({
 .argv;
 
 
-var defaultAddress = "113 college avenue ithaca ny"
+var defaultAddress = "new york";
 var input = encodeURIComponent(argv.address || defaultAddress);
 
 
