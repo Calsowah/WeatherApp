@@ -3,9 +3,9 @@ A node shell-run app that implements web-scraping with axios' promise chaining f
 
 # Example:
 $node app-weather.js -a "iceland" <br />
-Loading weather info
-Iceland 
- It's currently 34.49. It feels like 27.19
- Brace yourself for a rainy day
- Wear a jacket duuuude!
+Loading weather info <br />
+Iceland <br />
+ It's currently 34.49. It feels like 27.19<br />
+ Brace yourself for a rainy day<br />
+ Wear a jacket duuuude!<br />
 
